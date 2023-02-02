@@ -15,3 +15,6 @@ Jika kita ingin kembali ke suatu commit, maka ketik : git checkout [7 karakter p
 Setelah kita melakukan checkout ke sebuah commit, maka kita berada dalam keadaan 'detached HEAD' yang artinya pointer HEAD lepas dari branch (dimana seharusnya pointer HEAD ini menempel pada branch). Selain itu, kondisi repo kita akan berada di commit yang telah kita tuju barusan. Dalam hal ini, kita bisa melanjutkan pekerjaan kita pada commit yang sekarang. Misalnya, kita ingin membuat branch baru. Maka, pada commit ini akan terbentuk 2 buah branch. Kita bisa melanjutkan membuat commit-commit pada branch ini.
 
 Jika kita ingin kembali ke branch, maka ketik : git branch [nama_branch]
+
+## Screenshot Percobaan Menggunakan Git
+https://github.com/FaaiqMastyaga/Misi1-Modul1-SEKURO_Programming-2023-16722329/blob/78104f728d67683ad6811b229d2432abda2d2e07/Screenshot/Git%20-%20merge%20conflict.pdf
