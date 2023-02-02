@@ -31,3 +31,6 @@ Jadi, ketika folder kita sudah dinisialisasi sebagai repo, maka git secara otoma
 9. Untuk melihat history 3 perubahan terakhir yang telah dilakukan : ketik "git log -3"
 10. Untuk melihat history perubahan pada suatu file secara spesifik : ketik "git log -- [nama file]"
 11. Untuk mengembalikan file yang telah dihapus : ketik "git checkout [5 karakter pertama hash] -- [nama file]"
+
+## Screenshot Percobaan Menggunakan Git
+https://github.com/FaaiqMastyaga/Misi1-Modul1-SEKURO_Programming-2023-16722329/blob/467341c4bff664dc7cca5c509d2815c79cc9cf88/Screenshot/Git%20-%20command%20dasar.pdf
