@@ -49,3 +49,6 @@ Terjadi ketika branch yang ingin digabungkan tidak terhubung secara langsung. Mi
 
 ### Memastikan branch yang sudah di-merge
 Untuk mengetahui branch mana yang sudah di-merge, maka ketik : git branch --merged
+
+## Screenshot Percobaan Menggunakan Git
+https://github.com/FaaiqMastyaga/Misi1-Modul1-SEKURO_Programming-2023-16722329/blob/cbe4bd8b155493c23c238ff0edb8df3afa41bfd3/Screenshot/Git%20-%20branch%20&%20merge.pdf
