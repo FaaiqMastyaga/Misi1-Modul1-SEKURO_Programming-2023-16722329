@@ -13,3 +13,6 @@ part1.md --> hanya mengabaikan file tertentu
 *.exe --> mengabaikan seluruh file berekstensi .exe
 
 data/ --> mengabaikan seluruh item di dalam folder data
+
+## Screenshot Percobaan Menggunakan Git
+https://github.com/FaaiqMastyaga/Misi1-Modul1-SEKURO_Programming-2023-16722329/blob/efe63d5356bd7d62cfd8030fce8ea0999b9bdcd6/Screenshot/Git%20-%20.gitignore.pdf
